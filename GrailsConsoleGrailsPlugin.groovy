@@ -1,6 +1,6 @@
 class GrailsConsoleGrailsPlugin {
     // the plugin version
-    def version = "0.1"
+    def version = "0.2-SNAPSHOT"
     // the version or versions of Grails the plugin is designed for
     def grailsVersion = "2.2 > *"
     // resources that are excluded from plugin packaging
@@ -10,7 +10,7 @@ class GrailsConsoleGrailsPlugin {
 
     // TODO Fill in these fields
     def title = "Grails Console Plugin" // Headline display name of the plugin
-    def author = "Your name"
+    def author = "Guilherme Souza"
     def authorEmail = ""
     def description = '''\
 Brief summary/description of the plugin.
