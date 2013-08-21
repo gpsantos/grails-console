@@ -3,7 +3,7 @@ package grails.console
 class GroovyConsoleController {
 	
 	def index() {
-		println 'asd'
+		println 'Guilherme'
 	}
 
     def evaluate(String code) {
